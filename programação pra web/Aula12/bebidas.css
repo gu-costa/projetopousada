@@ -1,0 +1,20 @@
+.azul{ color: #007e7e;}
+body{
+    font-family: Arial;
+}
+p.um{
+    color: green;
+}
+p.dois{
+    color: blue;
+}
+p.tres{
+    color: purple;
+}
+p.quatro{
+    color: maroon;
+}
+p.cinco{
+    color: silver;
+    text-align: center;
+}

@@ -1,0 +1,40 @@
+body{
+    font-family: arial;
+    color: red;
+    font-weight: bold;
+    background-image: url(fundo_johnn.jpg) ;
+}
+h2{
+    font-family: algerian;
+    background-color: maroon;
+    color: #edc989;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+p.dois{
+    text-align: left;
+}
+p.tres{
+    text-align: left;
+}
+p.seis{
+    text-align: center;
+}
+p.quatro{
+    text-align: center;
+    font-style: italic;
+    background-color: maroon;
+    color: #edc989;
+}
+p.cinco{
+    text-align: right;
+}
+div{
+padding-left: 15%;
+padding-right: 15%;
+border: maroon;
+border-width: 1px;
+border-style: solid;
+}

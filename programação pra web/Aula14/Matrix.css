@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    background-image: url(fundo_neo-removebg-preview.png);
+    background-repeat: repeat-y;
+    background-position: right;    
+    background-size: auto;
+    text-align: left;
+}
+h2{
+    color: white;
+    background-image: url(fundo_matrix1.jpg);
+    font-family: Arial;
+    font-style: italic;
+    margin: 0 auto;
+    text-align: left;
+    background-position: left;
+    width: 88%;
+}
+h2.rodape{
+    text-align: right;
+}
+table{
+    padding: 80px;
+    width: 88%;
+}
+p{
+    font-family: Verdana;
+    text-indent: 50px;
+    text-align: justify;
+    width: 88%;
+    color: lightgreen;
+}

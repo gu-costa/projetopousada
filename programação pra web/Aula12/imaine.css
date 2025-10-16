@@ -1,0 +1,23 @@
+body{
+    font-family: arial;
+    color: red;
+}
+h2{
+    font-family: algerian;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+p.dois{
+    text-align: left;
+}
+p.tres{
+    text-align: left;
+}
+p.quatro{
+    text-align: center;
+}
+p.cinco{
+    text-align: right;
+}

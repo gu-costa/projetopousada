@@ -1,0 +1,33 @@
+body{
+    background-image: url(fundo.jpg);
+    font-family: Arial;
+}
+h1{
+    background-color: #ccbb99;
+    text-align: right;
+    color: black;
+}
+p{
+    color: #ccbb99;
+    text-align: justify;
+    font-weight: bold;
+    font-size: large;
+    text-indent: 5%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+h6{
+    font-style: italic;
+    background-color: #ccbb99;
+    color: black;
+}
+div{
+    border-style: dotted;
+    border-width: 1px;
+    border-color: #ccbb99;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+span{
+    font-style: italic;
+}
